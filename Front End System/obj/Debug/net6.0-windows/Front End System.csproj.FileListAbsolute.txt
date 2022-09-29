@@ -1,0 +1,19 @@
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front End System.csproj.AssemblyReference.cache
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front End System.csproj.GenerateResource.cache
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front End System.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front End System.AssemblyInfoInputs.cache
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front End System.AssemblyInfo.cs
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front End System.csproj.CoreCompileInputs.cache
+E:\GitHub²\Front End System\Front End System\Front End System\bin\Debug\net6.0-windows\Front End System.exe
+E:\GitHub²\Front End System\Front End System\Front End System\bin\Debug\net6.0-windows\Front End System.deps.json
+E:\GitHub²\Front End System\Front End System\Front End System\bin\Debug\net6.0-windows\Front End System.runtimeconfig.json
+E:\GitHub²\Front End System\Front End System\Front End System\bin\Debug\net6.0-windows\Front End System.dll
+E:\GitHub²\Front End System\Front End System\Front End System\bin\Debug\net6.0-windows\Front End System.pdb
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front End System.dll
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\refint\Front End System.dll
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front End System.pdb
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front End System.genruntimeconfig.cache
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\ref\Front End System.dll
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front_End_System.Properties.Resources.resources
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front_End_System.Tela1.resources
+E:\GitHub²\Front End System\Front End System\Front End System\obj\Debug\net6.0-windows\Front_End_System.Tela_de_Seleção.TelaFundamentos.resources
